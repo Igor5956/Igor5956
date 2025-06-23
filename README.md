@@ -1,6 +1,12 @@
-<style>
-  p{
-    color: red;
-  }
-</style>
-<p>HI</p>
+<DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "UTF-8">
+    
+  </head>
+  <body>
+    <p>
+      qwqwqw
+    </p>
+  </body>
+</html>
