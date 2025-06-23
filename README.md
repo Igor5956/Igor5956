@@ -5,12 +5,6 @@
     
   </head>
   <body>
-    <style>
-      p{
-        color: red;
-        padding: 10px;
-      }
-    </style>
     <p>
       qwqwqw
     </p>
