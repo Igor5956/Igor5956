@@ -1,6 +1,6 @@
 
 ![228136787949a85c103a630c753726aa](https://github.com/user-attachments/assets/4d0572b6-46cb-44a9-ab1a-a337680b40cf)
-![3df38d3bf889d10a700a8f2935c100f8](https://github.com/user-attachments/assets/e352b206-7376-488c-a398-1b37a1b80e11)
+
 
 
 <h1 align="center"> 術じゅつ廻かい呪そ師じ | <strong>Igor5956</strong> </h1>
