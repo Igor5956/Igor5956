@@ -1,4 +1,3 @@
-
 ![228136787949a85c103a630c753726aa](https://github.com/user-attachments/assets/4d0572b6-46cb-44a9-ab1a-a337680b40cf)
 
 
@@ -48,3 +47,4 @@
 - **Telegram:** [Kchau1535](https://t.me.com) — *«Да, я и тут самый сильный»*  
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Igor5956)](https://github.com/Igor5956/github-profile-trophy)
