@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> 術じゅつ廻かい呪そ師じ | <strong>Igor5956</strong> </h1>
+<h1 align="center"> 最強プログラマー | <strong>Igor5956</strong> </h1>
 <h3 align="center"> 🌀 Самый сильный шаман & Frontend-разработчик </h3>
 
 ---
