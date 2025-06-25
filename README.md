@@ -44,7 +44,11 @@
 
 ### **📫 Контакты (Как меня найти?)**  
 - **Discord:** `@ied__` — *«Мой домен — твой сервер»*  
-- **Telegram:** [Kchau1535](https://t.me.com) — *«Да, я и тут самый сильный»*  
+- **Telegram:** [Kchau1535](https://t.me.com) — *«Да, я и тут самый сильный»*
+
+
+
+
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Igor5956)](https://github.com/Igor5956/github-profile-trophy)
